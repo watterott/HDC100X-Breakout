@@ -2,17 +2,18 @@
 Breakout with [HDC100X](http://www.ti.com/product/hdc1008) digital humidity and temperature sensor from TI.
 
 
-[![HDC100X-Breakout](https://raw.github.com/watterott/HDC100X-Breakout/master/pcb/HDC100X-Breakout_v10.jpg)](http://www.watterott.com/en/HDC1008-Breakout)
+[![HDC100X-Breakout](https://raw.github.com/watterott/HDC100X-Breakout/master/pcb/HDC100X-Breakout_v11.jpg)](http://www.watterott.com/en/HDC1008-Breakout)
 
 
 ## Shop
-* [HDC1008-Breakout](http://www.watterott.com/en/HDC1008-Breakout)
+* [HDC1008-Breakout (+/-4% humidity accuracy)](http://www.watterott.com/en/HDC1008-Breakout)
+* [HDC1000-Breakout (+/-3% humidity accuracy)](http://www.watterott.com/en/HDC1000-Breakout)
 
 
 ## Features
 * Digital Humidity and Temperature Sensor
 * Relative Humidity (RH) operating range: 0% to 100%
-* Relative Humidity accuracy: +/-4%
+* Relative Humidity accuracy: HDC1008 +/-4%, HDC1000 +/-3%
 * Temperature accuracy: +/-0.2°C
 * TWI/I2C Interface (address: 0x43 with ADR0=1 and ADR1=1)
 * 3.3V - 5V Power Supply and Logic Level
