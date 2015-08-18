@@ -23,3 +23,4 @@ Breakout with [HDC100X](http://www.ti.com/product/hdc1008) digital humidity and 
 * [Schematics + Layout](https://github.com/watterott/HDC100X-Breakout/tree/master/pcb)
 * Arduino Library and Examples: [HDC1000-Arduino](https://github.com/ftruzzi/HDC1000-Arduino), [HDC100X_Arduino_Library](https://github.com/RFgermany/HDC100X_Arduino_Library), [Adafruit_HDC1000_Library](https://github.com/adafruit/Adafruit_HDC1000_Library)
 * Raspberry Pi Library and Examples: [python_hdc100](https://github.com/peterman/python_hdc100x)
+* Windows 10 IoT Library and Examples: [Windows 10 IoT HDC100X Library](https://github.com/stormy-ua/WindowsIoTCore.Drivers/tree/master/Hdc100x)
