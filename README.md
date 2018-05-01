@@ -9,8 +9,4 @@ Breakout with TI HDC1000 or HDC1008 Digital Humidity and Temperature Sensor.
 * Temperature accuracy: +/-0.2°C
 * TWI/I2C Interface (address: 0x43 with ADR0=1 and ADR1=1)
 * 3.3V - 5V Power Supply and Logic Level
-
-
-## Shop
-* [HDC1008-Breakout (+/-4% humidity accuracy)](http://www.watterott.com/en/HDC1008-Breakout)
-* [HDC1000-Breakout (+/-3% humidity accuracy)](http://www.watterott.com/en/HDC1000-Breakout)
+* **[Documentation on learn.watterott.com](http://learn.watterott.com/sensors/hdc100x/)**
